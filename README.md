@@ -1,61 +1,71 @@
-# TULSIFOXZERO Browser
-**Freedom First. Surveillance Last. Humanity Rebuilt.**
+# FREEDOMWARE PROJECTS
 
-TULSIFOXZERO is a privacy-first, ultra-minimalistic web browser designed to empower users with absolute control over their internet experience.  
-No telemetry. No downloads. No history. No backdoors.  
-Just pure, safe access to information.
+> Built for freedom. Powered by truth. Licensed for everyone.
 
-Built to defend freedom, anonymity, and truth in an increasingly controlled world.
+This collection of tools is created to fight back against systemic control, mass surveillance, and technological oppression.
 
----
-
-## ✨ Core Features
-- Full web browsing with tabs.
-- No storage of history, cookies, or cache.
-- No microphone, camera, or filesystem access.
-- Fake MAC address generated and displayed per tab.
-- Dark mode with toggle.
-- Local Ad-blocker and Firewall with user-controlled settings.
-- "View Full Source Code" feature to guarantee transparency.
-- "TULSI BLIND MODE" — a verification mode where users can deliberately introduce bugs to prove the code shown is real.
-- Splash screen on launch to inspire freedom mindset.
+These projects are built using A.I assistance combined with human vision — to accelerate humanity's move toward privacy, autonomy, and dignity.
 
 ---
 
-## 📜 License
-This project is licensed under the **TAG9010 LICENSE**.
+## 🔥 The Projects
 
-> The TAG9010 LICENSE defends personal privacy, freedom, innovation, and the creation of humane societies.  
-> It demands the integration of protective A.I. systems against child abuse material and religious propaganda.  
-> It encourages individuals to engineer better systems independently, as governments have demonstrated consistent failure to do so.
+- **TULSIFOXZERO**  
+  A browser focused on full anonymity, no microphones or cameras, MAC address randomization, and built-in ad-blocking.
 
-If you do not understand the TAG9010 LICENSE,  
-please ask **Tulsi Gabbard** to explain it better,  
-since in 2024 communications were sent directly to the CIA, FBI, Pentagon, EUROPOL, various EU embassies, and Greek police.
+- **TULSITHECONVERTER**  
+  A tool to paste code and rebuild it with a new GUI, encryption, and icon — creating a stronger, more secure version.
 
----
+- **CRYPTOTULSI**  
+  A cryptocurrency designed for anonymous transactions without wallets, merging VPN-like networking directly into the network itself.
 
-## 🚨 Important Notice
-TULSIFOXZERO is an **experimental early-stage project**.
+- **TULSITHEDemocracyHunter**  
+  A scanner to detect telemetry, spyware, and hidden backdoors in any code you paste — fighting hidden surveillance.
 
-- It was built by **TAG9010**, with the assistance of Artificial Intelligence (AI).
-- There may be **bugs, missing features, or incomplete protections** in this version.
-- Users are **strongly encouraged to study the source code**, verify its behavior, and **improve it** as part of the open-source community mission.
-
-> **Freedom must be verified, not assumed. Always read the code. Always adapt. Always improve.**
-
-This tool belongs to everyone who believes in real freedom.
+- **TULSICHAT**  
+  A privacy-first communications platform with a transparent \"View Source Code\" feature and \"Tulsi Blind Mode\" live code authentication.
 
 ---
 
-## 🚀 Mission
-TULSIFOXZERO is not just a browser.  
-It is part of a broader movement to rebuild free societies,  
-empower citizens, defend children,  
-and destroy surveillance at its roots.
+## 🛠️ Special Features
+
+- **View Source Code Button**  
+  See the code live and verify that it matches what is really running inside.
+
+- **Tulsi Blind Mode**  
+  Open a second window where you can safely corrupt symbols to generate errors. Compare errors with an external IDE like VSCodium. If errors match, the source code is authentic.
 
 ---
 
-## 🦊 "CODE IS FREEDOM.  
-TRUTH IS IN ERROR.  
-TRUST IS VERIFIED."
+## 🚀 Project Status
+
+All projects are in early development.  
+They need improvements, contributions, and testing from people who believe in freedom.
+
+Anyone is free to use, modify, and redistribute them under the MIT License.
+
+---
+
+## ⚡ License
+
+These projects are released under the **MIT License**.  
+You have full rights to:
+- Use
+- Modify
+- Distribute
+- Commercialize
+
+Freedom first — no restrictions.
+
+---
+
+## ✊ About the Creator
+
+Built by **TAG9010**, founder of the FREEDOMWARE initiative.
+
+Because freedom belongs to the builders — not the bureaucrats.
+
+---
+
+> “If we complete these systems, no tyrant can ever lock humanity down again.”  
+> — TAG9010
